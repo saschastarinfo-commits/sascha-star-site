@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Sascha Star – Official Website</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      background-color: #f4f4f4;
+      color: #222;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background-color: #111;
+      color: #fff;
+      padding: 60px 20px;
+      text-align: center;
+    }
+    header img {
+      max-width: 180px;
+      border-radius: 50%;
+      margin-top: 20px;
+    }
+    main {
+      max-width: 900px;
+      margin: 40px auto;
+      padding: 0 20px;
+    }
+    section {
+      margin-bottom: 40px;
+    }
+    h2 {
+      color: #444;
+      border-bottom: 2px solid #ddd;
+      padding-bottom: 5px;
+      margin-bottom: 15px;
+    }
+    ul {
+      padding-left: 20px;
+    }
+    footer {
+      background-color: #eee;
+      text-align: center;
+      padding: 20px;
+      font-size: 0.9em;
+      color: #666;
+    }
+    a {
+      color: #0077cc;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Sascha Star</h1>
+    <p>Actor • Singer • Host • Writer</p>
+    <img src="URL-DO-SLIKE.jpg" alt="Sascha Star" />
+  </header>
+
+  <main>
+    <section>
+      <h2>Biography</h2>
+      <p>Sascha Star (born October 5, 1977, in Rijeka, Croatia) is a Croatian actor, singer, television host, and writer who lives and works between Zagreb, Belgrade, London, and Los Angeles. His career spans over two decades, with a strong presence in both European and American entertainment industries.</p>
+      <p>He studied at the American Academy of Dramatic Arts and began his career as a model for Emporio Armani. He later founded Sascha Star Studio and Sascha Star Sound, with his debut album <em>Casablanca</em> currently in production.</p>
+      <p>His first book, <em>One Hundred Days in the Month</em>, is available for pre-order. The Croatian publisher remains confidential.</p>
+    </section>
+
+    <section>
+      <h2>Filmography</h2>
+      <ul>
+        <li>American Horror Story (2012, USA)</li>
+        <li>Ratched (2021, USA)</li>
+        <li>Gute Zeiten, Schlechte Zeiten (2002, Germany)</li>
+        <li>Južni Vetar (2019, Serbia)</li>
+        <li>Devil Wears Prada 2 (2025/2026, USA)</li>
+        <li>...and many more</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Music</h2>
+      <p><strong>Debut Album:</strong> Casablanca (15 original songs – in production)</p>
+      <p><strong>Label:</strong> Sascha Star Sound</p>
+    </section>
+
+    <section>
+      <h2>Books</h2>
+      <p><em>One Hundred Days in the Month</em> – available for online pre-order</p>
+      <p><strong>Publisher:</strong> Confidential (Croatia)</p>
+    </section>
+
+    <section>
+      <h2>Television Hosting</h2>
+      <ul>
+        <li>Vaš stil života (HRT, 1996–2000)</li>
+        <li>Transfer (HRT, 1997–2000)</li>
+        <li>Po mjeri (HRT, 1996–1998)</li>
+        <li>Dobro jutro Hrvatska (HRT, 1996–1998)</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Contact</h2>
+      <p>For inquiries, please contact: <a href="mailto:your-email@example.com">your-email@example.com</a></p>
+      <p>Follow Sascha on <a href="https://instagram.com">Instagram</a> | <a href="https://imdb.com">IMDb</a></p>
+    </section>
+  </main>
+
+  <footer>
+    &copy; 2025 Sascha Star Studio. All rights reserved.
+  </footer>
+
+</body>
+</html>
