@@ -17,10 +17,6 @@
       padding: 30px;
       text-align: center;
     }
-    header h1 {
-      margin: 0;
-      font-size: 2.5em;
-    }
     section {
       padding: 20px;
       max-width: 800px;
@@ -32,9 +28,9 @@
       padding: 10px;
       font-size: 0.9em;
     }
-    a {
-      color: #f0c040;
-      text-decoration: none;
+    video, audio {
+      width: 100%;
+      margin-top: 20px;
     }
   </style>
 </head>
@@ -45,7 +41,19 @@
 
   <section>
     <p>We are a creative studio based in Croatia, producing original music, film, and performance art.</p>
-    <p>Explore our latest projects, watch trailers, and discover the world of Sascha Star.</p>
+
+    <h2>🎬 Featured Trailer</h2>
+    <video controls>
+      <source src="AHS_Sascha_Star_Trailer2.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+
+    <h2>🎵 Featured Song</h2>
+    <audio controls>
+      <source src="SVIJEĆE I CVIJEĆE.mp3" type="audio/mpeg">
+      Your browser does not support the audio tag.
+    </audio>
+
     <p>Want to collaborate or learn more? <a href="#">Contact us here</a>.</p>
   </section>
 
