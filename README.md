@@ -14,3 +14,5 @@ Amanda – kreatorica i urednica stranice
 Prikazati vizualni identitet i informacije vezane uz Saschu Stara.
 ## Aktivacija stranice
 Ova promjena služi za pokretanje GitHub Pages.
+## Aktivacija stranice
+Ova promjena služi za pokretanje GitHub Pages.
