@@ -12,3 +12,5 @@ Amanda – kreatorica i urednica stranice
 
 ## Cilj
 Prikazati vizualni identitet i informacije vezane uz Saschu Stara.
+## Aktivacija stranice
+Ova promjena služi za pokretanje GitHub Pages.
