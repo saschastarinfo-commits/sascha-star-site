@@ -30,7 +30,7 @@ jobs:
       - name: Upload static files
         uses: actions/upload-pages-artifact@v3
         with:
-          path: .  # ako ti je index.html u root folderu
+          path: .  # jer ti je index.html u rootu
 
       - name: Deploy to GitHub Pages
         id: deploy
