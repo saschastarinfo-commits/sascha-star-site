@@ -1,0 +1,21 @@
+name: Objavi stranicu na GitHubu
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  rasporediti:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Preuzmi repozitorij
+        uses: actions/checkout@v3
+
+      - name: Postavi datoteke za objavu
+        uses: actions/upload-pages-artifact@v2
+        with:
+          path: .
+
+      - name: Objavi stranicu
+        uses: actions/deploy-pages@v2
